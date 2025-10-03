@@ -5,3 +5,5 @@ I understand this project is still in its infancy, but the foundation for your D
 How to use it?
 Here, you can enter your App Key and Secret App Key from the Dropbox app, after which you'll be authorized in the app and able to either download or delete files from your Dropbox.
 Also, if you need a Refresh Token, you can find your keys, Access Token, and Refresh Token in the created config file (after successfully logging into the app), and then use it for your own purposes.
+
+You can download the finished and working program here - https://www.dropbox.com/scl/fi/f1c4xbd11a8abf60rgukz/DropboxUtilites.exe?rlkey=ky3u6fwv8q7vq2z2so2gcoi9m&st=4fncdasa&dl=1
